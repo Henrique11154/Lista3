@@ -1,6 +1,7 @@
+package List3.src;
 import java.util.Scanner;
 
-public class A2{
+public class Atividade2{
 
     public static void main(String[] args) {
         Scanner e = new Scanner(System.in);

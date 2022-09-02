@@ -1,3 +1,4 @@
+package List3.src;
 import java.util.Scanner;
 
 public class Idades {
