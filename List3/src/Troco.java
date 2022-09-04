@@ -1,4 +1,3 @@
-package List3.src;
 public class Troco {
     
     private double pu; //produto unitario
